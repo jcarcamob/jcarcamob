@@ -39,21 +39,9 @@ Plataforma para simular APIs con endpoints, payloads y tokens editables desde un
 Port de un juego en Three.js a Godot 4 con una arquitectura desacoplada: núcleo en C# puro y capa de render separada.
 - **Stack:** Godot 4, C#
 - **Destaca:** decisiones de arquitectura documentadas en el README
-
-### 🤖 [Remediación de incidentes con IA](https://github.com/{{tu-usuario}}/{{nombre-repo}}) — Arquitectura de referencia
-Diseño de un flujo orientado a eventos: webhook de observabilidad → análisis con LLM → catálogo de patrones de remediación → ejecución con compuertas de aprobación humana.
-- **Stack:** Azure OpenAI, Power Automate, Dynatrace, Port
-- **Seguridad:** análisis de riesgos del flujo, aprobaciones obligatorias para acciones de riesgo y validación de esquemas de respuesta del LLM
-
-### ☁️ [{{Nombre del repo de IaC}}](https://github.com/{{tu-usuario}}/{{repo}}) — Módulos de Terraform para OCI
-{{Descripción breve: módulos reutilizables, ejemplos y validación de políticas con checkov/tfsec}}.
-
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]({{url-linkedin}})
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=hashnode&logoColor=white)]({{url-blog}})
-
-<!-- Estadísticas: usa una instancia self-hosted con token de solo lectura, o elimina esta sección -->
-![Stats](https://github-readme-stats.vercel.app/api?username={{tu-usuario}}&show_icons=true&theme=default&hide_border=true)
